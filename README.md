@@ -1,6 +1,5 @@
 # 📊 U.S. Suicide Death Rates Dashboard (Excel)
 
-This project visualizes suicide death rates in the United States based on **sex**, **race**, **Hispanic origin**, and **age** using an interactive **Excel dashboard**. The data originates from the CDC and offers important insights into mental health trends and disparities across different demographic groups.
 
 ## 🧠 Project Overview
 
