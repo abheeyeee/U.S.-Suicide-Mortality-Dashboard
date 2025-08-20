@@ -1,4 +1,4 @@
-# 📊 U.S. Suicide Death Rates Dashboard (Excel)
+# 📊 U.S. Suicide Death Rates Dashboard 
 
 
 ## 🧠 Project Overview
